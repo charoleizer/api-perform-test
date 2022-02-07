@@ -62,7 +62,7 @@ func doWork(parallel, loop int) {
 
 func main() {
 	start := time.Now()
-	doWork(1, 1) // os argumentos de quantidade de operações e rotinas paralelas seão informadas aqui
+	doWork(500, 10000) // os argumentos de quantidade de operações e rotinas paralelas seão informadas aqui
 	elapsed := time.Since(start)
 	fmt.Printf("Processs took %s\n", elapsed)
 }
