@@ -19,7 +19,7 @@
 
 ---
 
-### Golang/Gin:
+### Golang/Goji:
 
 **Teste 001 - 100000 operações distribuidas em 5000 rotinas paralelas.**
 - `Processs took 8.918164613 segundos`
