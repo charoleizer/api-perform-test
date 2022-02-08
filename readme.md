@@ -66,3 +66,19 @@
 - `Processs took 202.417531 ms`
 
 ---
+
+### Rust/Rocket:
+
+**Teste 001 - 100000 operações distribuidas em 5000 rotinas paralelas.**
+- `Processs took 34.024275463 s`
+
+**Teste 002 - 10000 operações distribuidas em 100 rotinas paralelas.**
+- `Processs took 24.234940881 s`
+
+**Teste 003 - 10000 operações distribuidas em 500 rotina paralela.**
+- `Processs took 7.244937692 s`
+
+**Teste 004 - 1 operação distribuida em 1 rotina paralela.**
+- `Processs took 201.799862 ms`
+
+---
