@@ -1,7 +1,7 @@
 ### Detalhes
 - Projeto pessoal para comparações de tempo de resposta de APIs escritas em diferentes linguages e frameworks
 - Teste: Ao bater no endpoint `/ping`, retorna `pong`
-- Testes realizado em ambiente local (Dell i15-3501-A70P - 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz - Mem: 19739 - Disk: KBG40ZNS256G NVMe KIOXIA 256GB) 
+- Testes realizado em ambiente local - Ubuntu 20.04(Dell i15-3501-A70P - 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz - Mem: 19739 - Disk: KBG40ZNS256G NVMe KIOXIA 256GB) 
 
 ### Golang/Gin:
 
