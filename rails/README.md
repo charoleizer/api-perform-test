@@ -1,24 +1,9 @@
-# README
+# Ruby on Rails test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Instalation
 
-Things you may want to cover:
+Install Ruby 3.1.0 and Rails 7.0.2 using the process described in the official page.
 
-* Ruby version
+## Use
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run `rails s` to up the service, access the endpoint in ´http://localhost:3000/ping´
